@@ -32,12 +32,12 @@ Feature Engineering:
 
 5 Cluster (Segmentasi) hasil clustering K-Prototype
 
-Cluster 0: Diamond Young Entrepreneur, wiraswasta rata-rata nilai transaksi mendekati 10 juta, umur 18 - 41 tahun 
+- Diamond Young Entrepreneur, wiraswasta rata-rata nilai transaksi mendekati 10 juta, umur 18 - 41 tahun 
 
-Cluster 1: Diamond Senior Entrepreneur, wiraswasta rata-rata nilai transaksi  mendekati 10 juta. umur  45 - 64 tahun 
+- Diamond Senior Entrepreneur, wiraswasta rata-rata nilai transaksi  mendekati 10 juta. umur  45 - 64 tahun 
 
-Cluster 2: Silver Students, pelajar dan mahasiswa rata-rata umur 16 tahun dan nilai belanja setahun 3 mendekati juta.
+- Silver Students, pelajar dan mahasiswa rata-rata umur 16 tahun dan nilai belanja setahun 3 mendekati juta.
 
-Cluster 3: Gold Young Member, profesional dan ibu rumah tangga yang berusia muda umur sekitar 20 - 40 tahun dan nilai belanja setahunnya mendekati 6 juta.
+- Gold Young Member, profesional dan ibu rumah tangga umur 20 - 40 tahun dan nilai belanja setahunnya mendekati 6 juta.
 
-Cluster 4: Gold Senior Member, profesional dan ibu rumah tangga yang berusia umur 46 - 63 tahun dan nilai belanja setahunnya mendekati 6 juta.
+- Gold Senior Member, profesional dan ibu rumah tangga umur 46 - 63 tahun dan nilai belanja setahunnya mendekati 6 juta.
